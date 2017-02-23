@@ -1,5 +1,9 @@
 # Dependency directories
+.idea
 node_modules/
 main.js
 main.js.map
 app/*.js
+app/*.js.map
+
+
